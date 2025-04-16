@@ -1,8 +1,5 @@
-
-
 This is the boilerplate for the Sea Level Predictor project.
 =======
-# boilerplate-sea-level-predictor
 
 Instructions to my completed project:
 
