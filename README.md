@@ -18,4 +18,3 @@ Plot a new line of best fit just using the data from year 2000 through the most 
 The x label should be Year, the y label should be Sea Level (inches), and the title should be Rise in Sea Level.
 
 The boilerplate also includes commands to save and return the image.
->>>>>>> 1f773edc414d007f71d0077a26c8f80dee10ab26
